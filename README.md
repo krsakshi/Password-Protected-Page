@@ -5,4 +5,4 @@
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. Click [https://github.com/krsakshi/Calculator/blob/main/LICENSE.md] for more information.
+Distributed under the MIT License. Click [https://github.com/krsakshi/Password-Protected-Page/blob/main/LICENSE.md] for more information.
